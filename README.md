@@ -1,4 +1,13 @@
-# Brunch + Babel/ES6 + jQuery + Twitter Bootstrap + React + Redux + Sass
+# Brunch with Sangria
+
+Serve brunch the way brunch should be served, with:
+- Babel/ES6
+- React
+- Redux
+- jQuery
+- Twitter Bootstrap
+- Sass support
+- Airbnb ESLint
 
 This is a modern JS skeleton for [Brunch](http://brunch.io).
 
